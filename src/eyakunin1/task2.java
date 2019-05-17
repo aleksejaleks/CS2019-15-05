@@ -1,4 +1,4 @@
-package eyakunin;
+package eyakunin1;
 
 public class task2 {
 
